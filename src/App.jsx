@@ -120,7 +120,7 @@ function App() {
       <div className="background-animation">
         <div className="fog"></div>
         <img
-          src="/public/output-onlinegiftools.gif"
+          src="/output-onlinegiftools.gif"
           alt="Lamborghini"
           className="lamborghini"
         />
