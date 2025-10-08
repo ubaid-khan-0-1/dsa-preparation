@@ -185,3 +185,29 @@ footer {
     transform: translateY(0);
   }
 }
+
+
+
+/* ===== RESPONSIVE DESIGN ===== */
+@media (max-width: 768px) {
+  header h1 {
+    font-size: 1.5em;
+  }
+
+  h2 {
+    font-size: 1.1em;
+  }
+
+  .task-item {
+    padding: 12px;
+  }
+
+  .lamborghini {
+    width: 120px;
+    bottom: 30px;
+  }
+
+  .container {
+    width: 95%;
+  }
+}
